@@ -1,0 +1,133 @@
+
+
+.spacerStack {
+	height: 40px;
+}
+
+#spacerStackstacks_in_7 {
+	height: 40px;
+}
+
+
+
+
+
+
+
+
+
+#stacks_in_28{text-align:justify}
+
+
+.spacerStack {
+	height: 40px;
+}
+
+#spacerStackstacks_in_10 {
+	height: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+#stacks_out_11 {
+	width: 90%;
+}
+
+
+.spacerStack {
+	height: 40px;
+}
+
+#spacerStackstacks_in_15 {
+	height: 40px;
+}
+
+
+
+
+
+
+
+
+
+#stacks_in_30{text-align:justify}
+#stacks_in_18>.s3_row {
+	margin: 0 -10px;
+}
+
+#stacks_in_18>.s3_row>.s3_column_left {
+	width: 50.00%;
+}
+
+#stacks_in_18>.s3_row>.s3_column_right {
+	width: 50.000000%;
+}
+
+
+
+
+#stacks_in_18>.s3_row>.s3_column {
+	padding: 0 10px;
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 770px) {
+
+
+
+}
+
+
+
+@media only screen and (max-width: 400px) {
+
+
+	#stacks_in_18>.s3_row  {
+		margin: -10px 0;
+	}
+	#stacks_in_18>.s3_row>.s3_column {
+		padding: 10px 0;
+		width:100%;
+	}
+
+
+}
+
+
+
+
+
+
+
+.spacerStack {
+	height: 20px;
+}
+
+#spacerStackstacks_in_27 {
+	height: 20px;
+}
+
+
+
+
+
+
+
+
+
+
