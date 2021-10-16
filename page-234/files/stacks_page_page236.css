@@ -1,0 +1,145 @@
+
+
+.spacerStack {
+	height: 25px;
+}
+
+#spacerStackstacks_in_16 {
+	height: 25px;
+}
+
+
+
+
+
+
+
+
+
+#stacks_in_9>.s3_row {
+	margin: 0 -10px;
+}
+
+#stacks_in_9>.s3_row>.s3_column_left {
+	width: 50.00%;
+}
+
+#stacks_in_9>.s3_row>.s3_column_right {
+	width: 50.000000%;
+}
+
+
+
+
+#stacks_in_9>.s3_row>.s3_column {
+	padding: 0 10px;
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 770px) {
+
+
+
+}
+
+
+
+@media only screen and (max-width: 400px) {
+
+
+	#stacks_in_9>.s3_row  {
+		margin: -10px 0;
+	}
+	#stacks_in_9>.s3_row>.s3_column {
+		padding: 10px 0;
+		width:100%;
+	}
+
+
+}
+
+
+
+
+
+/* BarberpoleThing by RapidWeaver Central  */
+
+#barberpolethingstacks_in_19 {
+}
+
+#stacks_in_19 .barberpole  {
+	display: block;
+	position: relative;
+}
+
+#stacks_in_19 .barberpole:hover .barberpole-hover, #stacks_in_19 .barberpole:active .barberpole-hover {
+	opacity: 1;
+}
+
+#stacks_in_19 .barberpole-hover {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	opacity: 0;
+	-webkit-transition: opacity 0.3s ease;
+	background-size: 30px 30px;
+	background-image: -webkit-linear-gradient(45deg, #DAFFFF 25%, transparent 25%, transparent 50%, #DAFFFF 50%, #DAFFFF 75%, transparent 75%, transparent);
+	background-image: -moz-linear-gradient(45deg, #DAFFFF 25%, transparent 25%, transparent 50%, #DAFFFF 50%, #DAFFFF 75%, transparent 75%, transparent);
+	background-image: -ms-linear-gradient(45deg, #DAFFFF 25%, transparent 25%, transparent 50%, #DAFFFF 50%, #DAFFFF 75%, transparent 75%, transparent);
+	background-image: linear-gradient(45deg, #DAFFFF 25%, transparent 25%, transparent 50%, #DAFFFF 50%, #DAFFFF 75%, transparent 75%, transparent);
+	-webkit-animation: barberpole 0.5s linear infinite;
+	   -moz-animation: barberpole 0.5s linear infinite;
+		-ms-animation: barberpole 0.5s linear infinite;
+			animation: barberpole 0.5s linear infinite;
+}
+
+@-webkit-keyframes barberpole {
+	from {
+    background-position: 0 0;
+}
+
+to {
+	background-position: 60px 30px;
+}
+
+}
+
+@-moz-keyframes barberpole {
+	from {
+    background-position: 0 0;
+}
+
+to {
+	background-position: 60px 30px;
+}
+}
+
+@-ms-keyframes barberpole {
+	from {
+    background-position: 0 0;
+}
+
+to {
+	background-position: 60px 30px;
+}
+}
+
+@keyframes barberpole {
+	from {
+    background-position: 0 0;
+}
+
+to {
+	background-position: 60px 30px;
+}
+}
